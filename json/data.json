@@ -1,0 +1,36 @@
+{
+  "Projects": [
+    {
+      "show": true,
+      "title": "Invervyou AI",
+      "desc": [
+        "Intervyou is an AI-driven SaaS platform designed to bridge the gap between education and employment by providing realistic interview simulations. The platform features a Gen AI engine that analyzes user responses and CVs to provide hyper-personalized feedback and material recommendations.",
+        "Built to scale, the system incorporates a gesture analysis module and a secure token-based payment gateway integrated with Midtrans. It currently serves over 3,000 users and is supported by Google for Startups and NVIDIA Inception."
+      ],
+      "year": "2025",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/intervyou/intervyou-thumbnail.jpg",
+      "images": [
+        "/image/projects/web/intervyou/intervyou-1.png",
+        "/image/projects/web/intervyou/intervyou-2.png"
+      ],
+      "tech": [
+        "NextJS",
+        "Typescript",
+        "Shadcn UI",
+        "Tailwind CSS",
+        "Prisma",
+        "MySQL",
+        "Midtrans",
+        "Gemini API",
+        "GCP"
+      ], 
+      "slug": "intervyou",
+      "category": [1, 2]
+    }
+   
+  ]
+}
+
+
